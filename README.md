@@ -32,3 +32,6 @@ student_performance_analysis/
 - **Python** · Pandas, NumPy, Matplotlib, Seaborn
 - **SQL-style analysis** via Pandas groupby aggregations
 - **Report** as self-contained HTML with embedded charts
+
+## Demo
+![Student Performance Analysis Report](Recording%202026-05-30%20095959.gif)
